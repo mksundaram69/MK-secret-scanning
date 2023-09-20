@@ -1,0 +1,4 @@
+# Guest only login
+# Used for Login as Guest button and login the current session as GUEST
+APP_GUEST_USERNAME = "MK.sundaram"
+APP_GUEST_PASSWORD = "mks123456"
